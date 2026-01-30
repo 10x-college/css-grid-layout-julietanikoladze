@@ -26,12 +26,6 @@ header h1 {
 .img-container img {
     height: 100%;
 }
-
-*item {
-    width: 300px;
-    height: 200px;
-    object-fit: cover;
-}
 .img3 {
     grid-column-start: 4;
 }

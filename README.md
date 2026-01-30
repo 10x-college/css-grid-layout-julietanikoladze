@@ -28,3 +28,7 @@
 ----------
 
 **წარმატებები!**
+![Preview project](./Photo%20Galery%201/photogalleryscreenshot.png)
+![Preview Project](./Image%20Gallery%202/imagegalleryscreenshot.png)
+![Preview Project](./Gallery%20section%203/gallerysectionscreenshot.png)
+![Preview Project](./Highlights%204/highlightsscreenshot.png) 
