@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/F3KaL0CB)
 
 
 # 🎨 Photo Gallery Layouts (CSS Grid)
@@ -27,3 +28,7 @@
 ----------
 
 **წარმატებები!**
+![Preview project](./Photo%20Galery%201/photogalleryscreenshot.png)
+![Preview Project](./Image%20Gallery%202/imagegalleryscreenshot.png)
+![Preview Project](./Gallery%20section%203/gallerysectionscreenshot.png)
+![Preview Project](./Highlights%204/highlightsscreenshot.png) 
